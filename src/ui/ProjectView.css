@@ -1,0 +1,47 @@
+.App{
+  width: 500px;
+  height: 500px;
+}
+#container{
+    width: 60vw !important;
+    height: 60vh !important;
+  
+  }
+  
+  .sp{
+    margin-right: 24px;
+  }
+  
+  .flex{
+    display: flex;
+    width: 100%;
+  }
+  
+  .item{
+    padding: 0 16px;
+    margin-bottom: 16px;
+    /* border-bottom: 1px solid #ccc; */
+  }
+  
+  .title{
+    font-size: 14px;
+    color: blue;
+    
+  }
+  
+  .address{
+    font-size: 12px;
+  }
+/*   .closepage{
+    background-color: cadetblue;
+    color: white;
+    margin-left: 20px;
+  }
+  .right{
+    margin-left: 20px;
+    background-color: white;
+    color: black;
+  } */
+  .button{
+    margin: 0 5px;
+  }
